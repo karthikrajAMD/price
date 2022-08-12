@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/karthikrajAMD/price/static/css/main.6b0a3017.css",
+    "main.js": "/karthikrajAMD/price/static/js/main.c6878480.js",
+    "index.html": "/karthikrajAMD/price/index.html",
+    "main.6b0a3017.css.map": "/karthikrajAMD/price/static/css/main.6b0a3017.css.map",
+    "main.c6878480.js.map": "/karthikrajAMD/price/static/js/main.c6878480.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b0a3017.css",
+    "static/js/main.c6878480.js"
+  ]
+}
